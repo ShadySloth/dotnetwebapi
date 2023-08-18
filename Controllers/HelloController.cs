@@ -3,7 +3,6 @@
 namespace dotnetwebapi.Controllers;
 
 [ApiController]
-
 public class HelloController : ControllerBase
 {
     
@@ -74,5 +73,12 @@ public class HelloController : ControllerBase
     public object GetCustomDto([FromQuery] MyQueryParamDto dto)
     {
         return dto;
+    }
+
+    [HttpPost]
+    [Route("/SomethingWentWrong")]
+    public object SomethingWentWrong()
+    {
+        throw new Exception("Something went wrong!");
     }
 }

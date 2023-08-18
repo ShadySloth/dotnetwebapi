@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jWjWSJ054hgShnLyXkRa79+tiKqsnWXluawRWCe+Mh/VqU0h491fycWH50+6CPj6YieHtuvqxqa+Ry076BHfmw==",
+  "dgSpecHash": "/qpxJCrsH0oqxPeuzlbq1NNDtGHYtY++Vq9mqTW9KbAHPFuKJL2A1bImQDvu1otkHFbqvR9mnNXzVUVD002log==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Peder\\IdeaProjects\\JavaFX and Charts\\dotnetwebapi\\dotnetwebapi.csproj",
+  "projectFilePath": "C:\\Users\\Peder\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\dotnetwebapi\\dotnetwebapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Peder\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\Peder\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

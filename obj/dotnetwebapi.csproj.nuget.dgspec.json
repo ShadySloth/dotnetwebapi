@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peder\\IdeaProjects\\JavaFX and Charts\\dotnetwebapi\\dotnetwebapi.csproj": {}
+    "C:\\Users\\Peder\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\dotnetwebapi\\dotnetwebapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peder\\IdeaProjects\\JavaFX and Charts\\dotnetwebapi\\dotnetwebapi.csproj": {
+    "C:\\Users\\Peder\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\dotnetwebapi\\dotnetwebapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peder\\IdeaProjects\\JavaFX and Charts\\dotnetwebapi\\dotnetwebapi.csproj",
+        "projectUniqueName": "C:\\Users\\Peder\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\dotnetwebapi\\dotnetwebapi.csproj",
         "projectName": "dotnetwebapi",
-        "projectPath": "C:\\Users\\Peder\\IdeaProjects\\JavaFX and Charts\\dotnetwebapi\\dotnetwebapi.csproj",
+        "projectPath": "C:\\Users\\Peder\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\dotnetwebapi\\dotnetwebapi.csproj",
         "packagesPath": "C:\\Users\\Peder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peder\\IdeaProjects\\JavaFX and Charts\\dotnetwebapi\\obj\\",
+        "outputPath": "C:\\Users\\Peder\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\dotnetwebapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peder\\AppData\\Roaming\\NuGet\\NuGet.Config"
